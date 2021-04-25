@@ -132,6 +132,7 @@ search                                    u:object_r:search_service:s0
 sec_key_att_app_id_provider               u:object_r:sec_key_att_app_id_provider_service:s0
 sensorservice                             u:object_r:sensorservice_service:s0
 serial                                    u:object_r:serial_service:s0
+i2c                                       u:object_r:i2c_service:s0
 servicediscovery                          u:object_r:servicediscovery_service:s0
 settings                                  u:object_r:settings_service:s0
 shortcut                                  u:object_r:shortcut_service:s0

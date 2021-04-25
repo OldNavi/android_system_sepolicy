@@ -120,6 +120,7 @@ type search_service, app_api_service, ephemeral_app_api_service, system_server_s
 type sec_key_att_app_id_provider_service, app_api_service, system_server_service, service_manager_type;
 type sensorservice_service, app_api_service, ephemeral_app_api_service, system_server_service, service_manager_type;
 type serial_service, system_api_service, system_server_service, service_manager_type;
+type i2c_service, system_api_service, system_server_service, service_manager_type;
 type servicediscovery_service, app_api_service, ephemeral_app_api_service, system_server_service, service_manager_type;
 type settings_service, app_api_service, ephemeral_app_api_service, system_server_service, service_manager_type;
 type shortcut_service, app_api_service, system_server_service, service_manager_type;
